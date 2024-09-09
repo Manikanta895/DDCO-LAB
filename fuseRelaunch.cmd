@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/AI026/Experiment/fullsubtractor_isim_beh.exe" -prj "D:/AI026/Experiment/fullsubtractor_beh.prj" "work.fullsubtractor" "work.glbl" 
